@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/civil-3d/overview/civil-3d-social.jpg" width="1080" alt="Civil 3D Screenshot"/>  
+  <img src="https://www.implexcorp.com/wp-content/uploads/2020/03/AutoCAD-Civil-3D_1.webp" width="1080" alt="Civil 3D Screenshot"/>  
 </div>  
 
 <br>  
